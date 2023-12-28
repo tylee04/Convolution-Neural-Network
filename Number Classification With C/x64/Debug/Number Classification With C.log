@@ -1,0 +1,22 @@
+﻿  Number Classification With C.c
+C:\Users\reete\Desktop\과제\1학년 2학기\컴퓨터 프로그래밍2\Number Classification With C\Number Classification With C\Load DataSets.h(59,32): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\reete\Desktop\과제\1학년 2학기\컴퓨터 프로그래밍2\Number Classification With C\Number Classification With C\Load DataSets.h(120,32): warning C4047: '=': 'char (*)[1000]'의 간접 참조 수준이 'char *'과(와) 다릅니다.
+C:\Users\reete\Desktop\과제\1학년 2학기\컴퓨터 프로그래밍2\Number Classification With C\Number Classification With C\Load DataSets.h(125,31): warning C4047: '==': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\reete\Desktop\과제\1학년 2학기\컴퓨터 프로그래밍2\Number Classification With C\Number Classification With C\Load DataSets.h(136,34): warning C4047: '==': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\reete\Desktop\과제\1학년 2학기\컴퓨터 프로그래밍2\Number Classification With C\Number Classification With C\Load DataSets.h(137,38): warning C4047: '=': 'char (*)[1000]'의 간접 참조 수준이 'char *'과(와) 다릅니다.
+C:\Users\reete\Desktop\과제\1학년 2학기\컴퓨터 프로그래밍2\Number Classification With C\Number Classification With C\Load DataSets.h(140,28): warning C4047: '==': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\reete\Desktop\과제\1학년 2학기\컴퓨터 프로그래밍2\Number Classification With C\Number Classification With C\Load DataSets.h(151,29): warning C4098: 'Load_DataSets_BITMAP_GRAY_SCALE': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\reete\Desktop\과제\1학년 2학기\컴퓨터 프로그래밍2\Number Classification With C\Number Classification With C\Dense.h(30,13): warning C4098: 'dense_forward': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\reete\Desktop\과제\1학년 2학기\컴퓨터 프로그래밍2\Number Classification With C\Number Classification With C\Dense.h(35,11): warning C4101: 'grads_sigmoid_tensor' :참조되지 않은 지역 변수입니다.
+C:\Users\reete\Desktop\과제\1학년 2학기\컴퓨터 프로그래밍2\Number Classification With C\Number Classification With C\Conv2d.h(125,30): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\reete\Desktop\과제\1학년 2학기\컴퓨터 프로그래밍2\Number Classification With C\Number Classification With C\Conv2d.h(132,27): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\reete\Desktop\과제\1학년 2학기\컴퓨터 프로그래밍2\Number Classification With C\Number Classification With C\Conv2d.h(136,27): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\reete\Desktop\과제\1학년 2학기\컴퓨터 프로그래밍2\Number Classification With C\Number Classification With C\Conv2d.h(161,14): warning C4098: 'Write_Kernel_Map_BMP': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\reete\Desktop\과제\1학년 2학기\컴퓨터 프로그래밍2\Number Classification With C\Number Classification With C\Conv2d.h(195,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\reete\Desktop\과제\1학년 2학기\컴퓨터 프로그래밍2\Number Classification With C\Number Classification With C\Conv2d.h(218,14): warning C4098: 'Write_Feature_Map_BMP': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\reete\Desktop\과제\1학년 2학기\컴퓨터 프로그래밍2\Number Classification With C\Number Classification With C\Conv2d.h(248,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\reete\Desktop\과제\1학년 2학기\컴퓨터 프로그래밍2\Number Classification With C\Number Classification With C\Number Classification With C.c(21,19): warning C4101: 'hf' :참조되지 않은 지역 변수입니다.
+C:\Users\reete\Desktop\과제\1학년 2학기\컴퓨터 프로그래밍2\Number Classification With C\Number Classification With C\Number Classification With C.c(22,19): warning C4101: 'hinfo' :참조되지 않은 지역 변수입니다.
+C:\Users\reete\Desktop\과제\1학년 2학기\컴퓨터 프로그래밍2\Number Classification With C\Number Classification With C\Conv2d.h(89): warning C4716: 'conv2d_backward': 값을 반환해야 합니다.
+C:\Users\reete\Desktop\과제\1학년 2학기\컴퓨터 프로그래밍2\Number Classification With C\Number Classification With C\Model.h(7): warning C4716: 'predict': 값을 반환해야 합니다.
+  Number Classification With C.vcxproj -> C:\Users\reete\Desktop\과제\1학년 2학기\컴퓨터 프로그래밍2\Number Classification With C\x64\Debug\Number Classification With C.exe
